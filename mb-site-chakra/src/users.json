@@ -1,0 +1,34 @@
+[
+    {
+      "id": "1",
+      "nome": "Neutron",
+      "marca": "Rocket Lab",
+      "precoDesconto": 100,
+      "precoNormal": 120
+      
+    },
+    {
+      "id": "2",
+      "nome": "New Shepard",
+      "marca": "Rocket Lab",
+      "precoDesconto": 100,
+      "precoNormal": 120
+      
+    },
+    {
+      "id": "1",
+      "nome": "Blue Origin",
+      "marca": "Rocket Lab",
+      "precoDesconto": 100,
+      "precoNormal": 120
+      
+    },
+    {
+      "id": "1",
+      "nome": "Ariane 6",
+      "marca": "Rocket Lab",
+      "precoDesconto": 100,
+      "precoNormal": 120
+      
+    }
+  ]
